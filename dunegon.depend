@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1476822404 source:d:\dokumenty\c++\dunegon\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"stuff.h"
+	"mapa.h"
+
+1476809723 d:\dokumenty\c++\dunegon\stuff.h
+
+1520971651 d:\dokumenty\c++\dunegon\mapa.h
+
+1476645679 d:\dokumenty\c++\dunegon\rendering.h
+
+1476645651 source:d:\dokumenty\c++\dunegon\rendering.cpp
+	"rendering.h"
+	"stuff.h"
+	"mapa.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1476645651 d:\dokumenty\c++\dunegon\rendering.cpp
+	"rendering.h"
+	"stuff.h"
+	"mapa.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
